@@ -7,6 +7,7 @@ DESIGNED & DEVELOPED by GetTemplates.co and FreeHTML5.co
 
 Websites: https://gettemplates.co https://freehtml5.co/
 
+Rediseñada para trabajo de Diw. Tarea 1 del tema 1.
 
 CREDITS:
 
